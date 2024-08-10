@@ -9,8 +9,8 @@ Which going to yields a 10% progress status.
 First, Links a CSS file and imports EasySliderBar.js
 </p>
 <pre>
-<link rel="stylesheet" href="EasySliderBar.css">
-<script src="./EasySlideBar.js"></script>
+&lt;link rel="stylesheet" href="EasySliderBar.css"&gt;
+&lt;script src="./EasySlideBar.js"&gt;&lt;/script&gt;
 </pre>
 <pre>
 &lt;input type=&quot;range&quot; class=&quot;slider&quot; disabled&gt;
