@@ -1,0 +1,1 @@
+# EasySliderBar.js
