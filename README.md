@@ -10,6 +10,5 @@ Which going to yields a 10% progress status.
 &lt;span class=&quot;silder_text&quot;&gt;&lt;/span&gt;
 
 &lt;script&gt;
-    // setSliders([target_value], [current_value])
     setSliders([25000], [250])
 &lt;/script&gt;</pre>
