@@ -13,7 +13,7 @@ First, Links a CSS file and imports EasySliderBar.js
 &lt;script src="./EasySlideBar.js"&gt;&lt;/script&gt;
 </pre>
 <p>
-Then, Init those sliders using code below. (Multiple sliders is supported.)
+Then, Init those sliders using code below. (Multiple sliders are supported.)
 </p>
 <pre>
 &lt;input type=&quot;range&quot; class=&quot;slider&quot; disabled&gt;
